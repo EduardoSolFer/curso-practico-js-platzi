@@ -23,6 +23,14 @@ console.log("El lado 2 del trinagulo mide: " + lado2Trinagulo + " cm");
 
 const  lado3Trinagulo = 2;
 console.log("El lado 3 del trinagulo mide: " + lado3Trinagulo + " cm");
+
+
+const  areaTriangulo = lado1Trinagulo * lado2Trinagulo / 2;
+console.log("El area del trinagulo mide: " + areaTriangulo + " cm");
+
 console.groupEnd();
 
 //Figuras
+
+//FUNCIONES 
+
